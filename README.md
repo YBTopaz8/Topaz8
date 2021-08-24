@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yvan Brunel
 - 👨‍🎓 Student in MSc, Computer Science/Software Development 
 - 👀 I’m interested in Programming/Gaming
-- 🌱 I’m currently learning ...Django for Python and Improving on C# .Net Desktop Dev
+- 🌱 I’m currently learning ...Django for Python🐍 and Improving on C# .Net Desktop Dev
 - 📫 How to reach me ... 8brunel@gmail.com
 
 <!---
